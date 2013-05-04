@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate_nodejs_express",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "bootstrap": "latest",
+    "jquery": "latest",
+    "underscore": "latest"
+  }
+}
