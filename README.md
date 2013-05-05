@@ -1,4 +1,5 @@
-# boilerplate_nodejs_express : A simple boilerplate for node.js & express3 application.
+# boilerplate_nodejs_express
+A simple boilerplate for node.js & express3 application.
 
 ## What is this?
 
